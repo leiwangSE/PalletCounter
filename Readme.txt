@@ -1,2 +1,3 @@
 Final version
-Multiple input request and response with corresponding results
+A user can input Part ID and The number of container according to user's requirement that can be from 1 to 15 rows of instance in the input request page. After submit the request, control servlet on Tomcat server will call corresponding DAO(Data Asscess Object) and then DAO get the manipulated results from database returning back to control servlet. Control servlet will render the results with a corresponding result page.
+The project utilized data structure of List, Set and Map. Map is used to display corresponding rows of results according the user's input, for example, if a user input 5 rows of instance, the responding page will display 5 rows of caculated results only.
