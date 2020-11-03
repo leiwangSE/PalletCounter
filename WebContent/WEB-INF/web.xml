@@ -11,7 +11,7 @@
   </context-param>
   <context-param>
     <param-name>jdbcPassword</param-name>
-    <param-value>root1234</param-value>
+    <param-value>pass1234</param-value>
   </context-param>
   <servlet>
     <servlet-name>ControllerServlet</servlet-name>

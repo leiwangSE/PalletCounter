@@ -94,7 +94,7 @@
     <br>
     
     <div align="center">
-    <button  onclick="window.location.href='/Palletcounter/UserMultipleInput.jsp'" >NEXT</button>
+    <button  onclick="window.location.href='UserMultipleInput.jsp'" >NEXT</button>
     </div>
 </body>
 </html>
